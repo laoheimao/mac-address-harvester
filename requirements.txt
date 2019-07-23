@@ -4,5 +4,5 @@ numpy==1.11.2
 pyparsing==2.1.10
 python-dateutil==2.6.0
 pytz==2016.10
-scapy==2.3.3
+scapy>=2.4.1
 six==1.10.0
